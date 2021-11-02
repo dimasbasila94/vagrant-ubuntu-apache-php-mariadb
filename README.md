@@ -1,7 +1,7 @@
 # vagrant-ubuntu-apache-php-mariadb
 Vagrantfile for Env ubuntu apache php mariadb
 
-## User Vagrantfile in your local repo
+## Use Vagrantfile in your local repo
 ### Clone Repo
 ```
 git clone https://github.com/dimasbasila94/vagrant-ubuntu-apache-php-mariadb.git
